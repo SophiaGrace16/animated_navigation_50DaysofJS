@@ -1,5 +1,5 @@
 # 50 Days of JS, HTML, & CSS 
-## Project 0: Words
+## Project 14: Animated Navigation
 
 ### Directions for Use:
 
@@ -10,7 +10,7 @@
 ### Contributors:
 
 Bug reports and pull requests are welcome on GitHub at:
-https://github.com/SophiaGrace16/PROJECTREPO
+https://github.com/SophiaGrace16/animated_navigation_50DaysofJS
 
 ### License:
 
